@@ -1,0 +1,6 @@
+{
+  "name": "Optimum Health Gym",
+  "description": "Premium fitness center, personal training, body transformation, and nutrition in Indore, MP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
